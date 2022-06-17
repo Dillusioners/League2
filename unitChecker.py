@@ -21,5 +21,7 @@ for i in range(len(fundamental_unit_array)):
         #anything else is a fundamental quantity
     else:
         print("It is a derived quantity...")
-        print("F.A.Q since derived quantities root from physical quantities literally any representation of a unit is a derived unit"+"\n"+"if it does not belong to the fundamental quantity list."+"\n"+"\n"+"For example abcd is not a physical quantity hence inputting abdc will print that its a derived quantity")
-        break
+    print("There is a theoretically infinite number. The entire set is enumerated with ∏a**(a**(na)) where a∈{s,m,kg,A,K,mol} and na∈Z."+"\n"+"As for how many are in common usage, I would say at least a few of them. Lets just see how many I can name…"+"\n"+"1.area ===> m^2"+"\n"+"2.volume ===> m^3"+"\n"+"3.charge ===> Cforce"+"\n"+"4.Nlinear density ===> kg/m"+"\n"+"5.surface density ===> kg/m^2"+"\n"+"6.volume density ===> kg/m^3"+"\n"+"7.linear charge density ===> C/m")
+
+
+
